@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kitchen-sink/static/css/main.073c9b0a.css",
+    "main.js": "/kitchen-sink/static/js/main.7962afaf.js",
+    "static/js/787.3fce9f28.chunk.js": "/kitchen-sink/static/js/787.3fce9f28.chunk.js",
+    "static/media/logo.svg": "/kitchen-sink/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kitchen-sink/index.html",
+    "main.073c9b0a.css.map": "/kitchen-sink/static/css/main.073c9b0a.css.map",
+    "main.7962afaf.js.map": "/kitchen-sink/static/js/main.7962afaf.js.map",
+    "787.3fce9f28.chunk.js.map": "/kitchen-sink/static/js/787.3fce9f28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7962afaf.js"
+  ]
+}
